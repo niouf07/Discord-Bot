@@ -3,7 +3,7 @@
 <h2>
 This is a basic Discord bot with three commands:
 <br>
-/ping: give the ping of the bot
+/ping: Reply with pong
 <br>
 /user : give information about the user who do the command
 <br>
@@ -24,9 +24,9 @@ initialization
     <br>
     Open the terminal on youre IDE and write :
     <br>
-    node init (and follow the intruction in the terminal)
+    npm init (and follow the intruction in the terminal)
     <br>
-    node install discord.js
+    npm install discord.js
     <br>
     node deploy-commands
 
